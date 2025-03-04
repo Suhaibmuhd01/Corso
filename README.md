@@ -1,7 +1,7 @@
-# Corso - Training Course Landing Page Template
+# Corso - Training Course Landing Page
 
 ## Overview
-Corso is a responsive landing page template designed for training courses, workshops, and classes. Built with **HTML, Bootstrap 4, CSS, JavaScript, and FontAwesome**, it provides an elegant and modern user interface to attract and convert visitors into course registrants.
+Corso is a responsive landing page designed for training courses, workshops, and classes. Built with **HTML, Bootstrap 4, CSS, JavaScript, and FontAwesome**, it provides an elegant and modern user interface to attract and convert visitors into course registrants.
 
 ## Features
 - Fully responsive design
