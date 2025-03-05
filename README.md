@@ -22,7 +22,7 @@ Corso is a responsive landing page designed for training courses, workshops, and
 - **JavaScript & jQuery** - Enhancing interactivity
 - **Swiper.js** - Image sliders
 - **FontAwesome** - Icons and UI enhancements
-
+<!--
 ## Folder Structure
 ```
 Corso/
@@ -36,7 +36,7 @@ Corso/
 │── privacy-policy.html   # Privacy policy
 │── README.md             # Project documentation
 ```
-
+-->
 ## Setup and Installation
 1. Clone the repository:
    ```sh
