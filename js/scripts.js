@@ -4,10 +4,15 @@
    Description: Custom JS file
 */
 
+$(document).ready(function() {
+    const year = new Date().getFullYear();
+    $("#year").text(year);
+});
+
 
 (function($) {
     "use strict"; 
-	
+
 	/* Preloader */
 	$(window).on('load', function() {
 		var preloaderFadeOutTime = 500;
@@ -390,7 +395,7 @@
             url: "php/privacyform-process.php",
             data: "name=" + name + "&email=" + email + "&select=" + select + "&terms=" + terms, 
             success: function(text) {
-                if (text == "success") {
+                if (text == "success") { 
                     pformSuccess();
                 } else {
                     pformError();
